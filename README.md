@@ -1,4 +1,4 @@
 # Tugas_3_JS
 
-- Studi Kasus
+# Studi Kasus
   ![mg 1](StudiKasus.png)
